@@ -4,8 +4,8 @@
 
 X_USERNAME=@Abhi51749741
 
-X_PASSWORD=Abhi@6261
+X_PASSWORD=Abhi
 
-X_EMAIL=abhisheksinghm21s@gmail.com
+X_EMAIL=abhisheksinghs@gmail.com
 
 GROQ_API_KEY = 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
